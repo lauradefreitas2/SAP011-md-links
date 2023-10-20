@@ -15,10 +15,9 @@ Bem-vindos ao projeto Markdown Links! Este módulo JavaScript permite analisar a
 
 Para utilizar o `Markdown Links` em sua máquina, siga as seguintes etapas:
 
-1. Certifique-se de ter o Node.js instalado em sua máquina. Caso não tenha, você pode fazer o download e a instalação em [nodejs.org](https://nodejs.org/). 📦
+### 1. Certifique-se de ter o Node.js instalado em sua máquina. Caso não tenha, você pode fazer o download e a instalação em [nodejs.org](https://nodejs.org/). 📦
 
-2. Abra o terminal e execute o seguinte comando para instalar o módulo via npm:
-
+### 2. Abra o terminal e execute o seguinte comando para instalar o módulo via npm: 
 npm install -g md-links-lauradefreitas
 Depois de instalar o módulo, você pode usá-lo com o seguinte comando:
 
@@ -30,7 +29,7 @@ md-links-lauradefreitas seu-arquivo.md
 Opções 🛠️
 --validate - Verificar a validade dos links. ✅❌
 --stats - Exibir estatísticas dos links encontrados. 📊
-Exemplo:
+### Exemplo:
 
 md-links-lauradefreitas seu-arquivo.md --validate
 ## 3. Documentação da API 📖
