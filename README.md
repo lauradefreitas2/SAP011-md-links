@@ -1,6 +1,6 @@
 # Markdown Links 📚
 
-Bem-vinda ao projeto Markdown Links! Este módulo JavaScript permite analisar arquivos Markdown (extensão .md) em busca de links e fornecer informações sobre eles, como a URL, o texto associado e o status de validação. 🌐📄
+Bem-vindos ao projeto Markdown Links! Este módulo JavaScript permite analisar arquivos Markdown (extensão .md) em busca de links e fornecer informações sobre eles, como a URL, o texto associado e o status de validação. 🌐📄
 
 ## Índice 📑
 
